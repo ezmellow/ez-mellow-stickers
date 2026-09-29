@@ -1,0 +1,21 @@
+{
+  "packs": [
+    {
+      "id": "free_pack",
+      "name": "EZ Mellow Characters",
+      "type": "free",
+      "stickers": [
+        {
+          "id": "ez_mellow_boy",
+          "label": "EZ Mellow Boy",
+          "url": "https://raw.githubusercontent.com/ezmellow/ez-mellow-stickers/main/EZ%20Mellow%20Boy.png"
+        },
+        {
+          "id": "ez_mellow_girl",
+          "label": "EZ Mellow Girl",
+          "url": "https://raw.githubusercontent.com/ezmellow/ez-mellow-stickers/main/EZ%20Mellow%20Girl.png"
+        }
+      ]
+    }
+  ]
+}
